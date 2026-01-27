@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "question": "what is the square of 2?",
+            "options": [
+                "2",
+                "4",
+                "6",
+                "8"
+            ],
+            "answer": 2,
+            "difficulty": "medium"
+        },
+        {
+            "question": "what is the tallest mountain in the world?",
+            "options": [
+                "Mt Everest",
+                "Manaslu",
+                "k2",
+                "Machhapuchre"
+            ],
+            "answer": 1,
+            "difficulty": "hard"
+        },
+        {
+            "question": "What is your name?",
+            "options": [
+                "Rohan",
+                "Sujal",
+                "Bikrant",
+                "Rahul"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Where is Uganda?",
+            "options": [
+                "Africa",
+                "America",
+                "Asia",
+                "Australia"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "Which is the biggest flower in the world?",
+            "options": [
+                "Rafflesia",
+                "Jasmine",
+                "Rose",
+                "Marigold"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "What is the largest moon of Saturn?",
+            "options": [
+                "Titan",
+                "ceres",
+                "dfdfd",
+                "seee"
+            ],
+            "answer": 1
+        }
+    ],
+    "results": [
+        {
+            "name": "rohan",
+            "score": 1,
+            "total": 1,
+            "difficulty": "medium",
+            "duration": 5,
+            "date": "2026-01-22 21:54"
+        },
+        {
+            "name": "Rohan",
+            "score": 2,
+            "total": 3,
+            "date": "2026-01-23 09:43"
+        },
+        {
+            "name": "sujal",
+            "score": 3,
+            "total": 4,
+            "date": "2026-01-23 10:32"
+        },
+        {
+            "name": "amit",
+            "score": 4,
+            "total": 5,
+            "date": "2026-01-27 10:21"
+        },
+        {
+            "name": "3434",
+            "score": 2,
+            "total": 6,
+            "date": "2026-01-27 10:22"
+        },
+        {
+            "name": "hem",
+            "score": 5,
+            "total": 6,
+            "date": "2026-01-27 10:24"
+        },
+        {
+            "name": "fiona",
+            "score": 3,
+            "total": 6,
+            "date": "2026-01-27 10:25"
+        },
+        {
+            "name": "nina",
+            "score": 6,
+            "total": 7,
+            "date": "2026-01-27 10:27"
+        },
+        {
+            "name": "ryan",
+            "score": 5,
+            "total": 7,
+            "date": "2026-01-27 10:27"
+        }
+    ]
+}
